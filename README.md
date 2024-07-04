@@ -24,10 +24,6 @@ Unity, MagicaVoxel, Mixamo
 
 ‘초코비 원샷‘ 음악에 맞춰 각 캐릭터들이 춤을 춤
 
-### 프로젝트 영상
-
-[강혜빈_초코비원샷.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/100676b9-e043-47ce-b3b9-63bfa916943f/69bfb9ec-32e2-41f5-b540-0ea19ef176d3/%EA%B0%95%ED%98%9C%EB%B9%88_%EC%B4%88%EC%BD%94%EB%B9%84%EC%9B%90%EC%83%B7.mp4)
-
 ### 동작 원리
 
 - Asset Store에서 `배경(놀이터) Asset` 다운로드
